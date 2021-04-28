@@ -1,5 +1,5 @@
 from typing import List
-from City import City
+from Others.City import City
 
 # Storing the cities data
 cities: List[City] = []
